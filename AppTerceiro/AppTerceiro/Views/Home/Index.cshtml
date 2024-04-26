@@ -1,0 +1,18 @@
+﻿@model AppTerceiro.Models.Fisica
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<main area-labelledby="title">
+    <h2>Codigo:  @Model.Id</h2>
+    <h2>Nome:  @Model.Nome</h2>
+    <h2>Sexo:  @Model.Sexo</h2>
+    <h2>RG:  @Model.RG</h2>
+    <h2>Digito:  @Model.Dig_RG</h2>
+</main>

@@ -1,0 +1,28 @@
+﻿@model AppTerceiro.Models.Pessoa
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+@{
+    if (Model.Sexo == 'M') 
+    {
+        ViewBag.Sexo2 = "Masculino";
+
+    }
+    if (ViewBag.Sexo == 'M')
+    {
+        ViewBag.Sexo = "Homem";
+    }
+    
+}
+<h1>@ViewData["Title"]</h1>
+
+<main aria-labelledby="title">
+    <h2>@Model.Id</h2>
+    <h2>@Model.Nome</h2>
+    <h2>@ViewBag.Sexo2</h2>
+    <hr />
+
+    <h2>@ViewBag.Id</h2>
+    <h2>@ViewBag.Nome</h2>
+    <h2>@ViewBag.Sexo</h2>
+</main>
