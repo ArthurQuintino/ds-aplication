@@ -448,3 +448,4 @@ C:\Users\2DS\Desktop\2ds Arthur Q e Arthur R\2ds\AppTerceiro\AppTerceiro\AppTerc
 C:\Users\2DS\Desktop\2ds Arthur Q e Arthur R\2ds\AppTerceiro\AppTerceiro\AppTerceiro\obj\Debug\net8.0\AppTerceiro.pdb
 C:\Users\2DS\Desktop\2ds Arthur Q e Arthur R\2ds\AppTerceiro\AppTerceiro\AppTerceiro\obj\Debug\net8.0\AppTerceiro.genruntimeconfig.cache
 C:\Users\2DS\Desktop\2ds Arthur Q e Arthur R\2ds\AppTerceiro\AppTerceiro\AppTerceiro\obj\Debug\net8.0\ref\AppTerceiro.dll
+C:\Users\2DS\Desktop\2ds Arthur Q e Arthur R\2ds\AppTerceiro\AppTerceiro\AppTerceiro\obj\Debug\net8.0\AppTerceiro.sourcelink.json

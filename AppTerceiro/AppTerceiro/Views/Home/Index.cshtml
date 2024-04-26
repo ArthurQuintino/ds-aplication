@@ -3,6 +3,7 @@
 @{
     ViewData["Title"] = "Home Page";
 }
+<link rel="stylesheet" href="~/css/estilo.css" />
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
@@ -13,6 +14,14 @@
     <h2>Codigo:  @Model.Id</h2>
     <h2>Nome:  @Model.Nome</h2>
     <h2>Sexo:  @Model.Sexo</h2>
-    <h2>RG:  @Model.RG</h2>
-    <h2>Digito:  @Model.Dig_RG</h2>
+    <h2>RG:  @Model.RG</h2> <h2>Digito:  @Model.Dig_RG</h2>
+
+    <hr />
+
+    <h1>Exemplo com ViewData</h1>
+    <h2>Codigo: @ViewData["Id"]</h2>
+    <h2>Nome: @ViewData["Nome"]</h2>
+    <h2>Sexo: @ViewData["Sexo"]</h2>
+    <h2>RG: @ViewData["Rg"]</h2>     <h2>Codigo: @ViewData["Dig_RG"]</h2>
+
 </main>

@@ -1,0 +1,27 @@
+﻿body {
+    background-color: black;
+}
+
+header {
+background-color:paleturquoise;
+color: white;
+}
+
+header a:hover{
+    font-weight: bold;
+}
+h3 {
+    font-family: monospace;
+}
+h2{
+    color: white;
+    font-family: monospace;
+
+}
+
+h1 {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: monospace;
+}

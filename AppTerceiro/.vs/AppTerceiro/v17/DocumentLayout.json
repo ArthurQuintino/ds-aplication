@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\2ds arthur q e arthur r\\2ds\\appterceiro\\appterceiro\\appterceiro\\wwwroot\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\wwwroot\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\2ds arthur q e arthur r\\2ds\\appterceiro\\appterceiro\\appterceiro\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,8 +23,20 @@
       "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\home\\juridico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\models\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,26 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\models\\juridico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\models\\juridico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\appterceiro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28734E17-EE0C-4E59-97C1-EAA30D629144}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +54,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "estilo.css",
+              "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\wwwroot\\css\\estilo.css",
+              "RelativeDocumentMoniker": "AppTerceiro\\wwwroot\\css\\estilo.css",
+              "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\wwwroot\\css\\estilo.css",
+              "RelativeToolTip": "AppTerceiro\\wwwroot\\css\\estilo.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-26T12:31:43.051Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -60,25 +77,27 @@
               "RelativeDocumentMoniker": "AppTerceiro\\Views\\Shared\\_Layout.cshtml.css",
               "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "AppTerceiro\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-18T11:24:52.087Z"
+              "WhenOpened": "2024-04-18T11:24:52.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AppTerceiro\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "AppTerceiro\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T13:23:00.972Z"
+              "WhenOpened": "2024-04-12T13:23:00.972Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Fisica.cs",
               "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Models\\Fisica.cs",
               "RelativeDocumentMoniker": "AppTerceiro\\Models\\Fisica.cs",
@@ -86,35 +105,38 @@
               "RelativeToolTip": "AppTerceiro\\Models\\Fisica.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T13:13:57.109Z"
+              "WhenOpened": "2024-04-12T13:13:57.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AppTerceiro\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AppTerceiro\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAB6AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T13:06:04.873Z"
+              "WhenOpened": "2024-04-12T13:06:04.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Juridico.cshtml",
               "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Juridico.cshtml",
               "RelativeDocumentMoniker": "AppTerceiro\\Views\\Home\\Juridico.cshtml",
               "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Juridico.cshtml",
               "RelativeToolTip": "AppTerceiro\\Views\\Home\\Juridico.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T13:01:34.904Z"
+              "WhenOpened": "2024-04-12T13:01:34.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Juridico.cs",
               "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Models\\Juridico.cs",
               "RelativeDocumentMoniker": "AppTerceiro\\Models\\Juridico.cs",
@@ -122,48 +144,51 @@
               "RelativeToolTip": "AppTerceiro\\Models\\Juridico.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T12:20:35.876Z"
+              "WhenOpened": "2024-04-12T12:20:35.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "AppTerceiro\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\wwwroot\\css\\site.css",
               "RelativeToolTip": "AppTerceiro\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-12T12:17:09.151Z"
+              "WhenOpened": "2024-04-12T12:17:09.151Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "AppTerceiro\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Privacy.cshtml*",
-              "RelativeToolTip": "AppTerceiro\\Views\\Home\\Privacy.cshtml*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AppTerceiro\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-11T11:42:19.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AppTerceiro\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Controllers\\HomeController.cs",
               "RelativeToolTip": "AppTerceiro\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCYAAAAnAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:31:18.757Z"
+              "WhenOpened": "2024-04-11T11:31:18.757Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\Models\\Pessoa.cs",
               "RelativeDocumentMoniker": "AppTerceiro\\Models\\Pessoa.cs",
@@ -171,7 +196,8 @@
               "RelativeToolTip": "AppTerceiro\\Models\\Pessoa.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:14:16.925Z"
+              "WhenOpened": "2024-04-11T11:14:16.925Z",
+              "EditorCaption": ""
             }
           ]
         }
