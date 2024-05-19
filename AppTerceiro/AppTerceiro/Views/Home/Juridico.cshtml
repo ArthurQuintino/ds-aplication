@@ -1,12 +1,19 @@
 ﻿@model AppTerceiro.Models.Juridico
 @{
-    ViewData["Title"] = "Juridico";
+    ViewData["Title"] = "Pessoa Juridica";
 }
 
 <link rel="stylesheet" href="~/css/estilo.css" />
+<h1>@ViewData["Title"]</h1>
 
-<h1>Juridico</h1>
-<h2>@Model.Id</h2>
-<h2>@Model.Nome</h2>
-<h2>@Model.CNPJ</h2>
+
+<h2>Codigo: @Model.Id</h2>
+<h2>Nome: @Model.Nome</h2>
+<h2>CNPJ: @Model.CNPJ</h2>
 <h2>Inscrição Estadual: @Model.IE</h2>
+<hr />
+
+@if (@TempData["Id"] != null){
+    <h4>Codigo: @TempData["Id"] Nome: @TempData["Nome"] CNPJ: @TempData["CNPJ"] Inscrição Estadual: @TempData["IE"]</h4>
+
+}

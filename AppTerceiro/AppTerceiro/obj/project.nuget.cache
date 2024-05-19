@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7oRaCdeFcSMBF/y6lYL4YFaP+rkNtefriuEagnD67ZlWzOhH0gaXdmygJEQoAjxyMjwx2m9BP8yHNKg0alaACg==",
+  "dgSpecHash": "8P5IKCyzjZeXiW8IL3+xbVzp921OIs1v4fCI2cRUYPTJRXVuWZL42M8FqfRaxxgt7AKgKv2znH+mlDloAIegUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\AppTerceiro.csproj",
+  "projectFilePath": "C:\\Users\\2DS\\Desktop\\ds-aplication-main\\AppTerceiro\\AppTerceiro\\AppTerceiro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2DS\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\2DS\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

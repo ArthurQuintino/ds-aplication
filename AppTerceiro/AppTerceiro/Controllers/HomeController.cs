@@ -33,7 +33,6 @@ namespace AppTerceiro.Controllers
 
             return View(fisica);
         }
-
         public IActionResult Privacy()
         {
             Pessoa pessoa = new Pessoa();
@@ -55,7 +54,27 @@ namespace AppTerceiro.Controllers
             juridica.IE = 12321312312321312;
             return View(juridica);
         }
+        public IActionResult ExemploTempData()
+        {
+            Juridico juridico = new Juridico();
+            juridico.Id = 2005;
+            juridico.Nome = "Nilson Tecnology";
+            juridico.CNPJ = 12321313123;
+            juridico.IE = 3132131312;
 
+            TempData["Id"] = Convert.ToString(juridico.Id);
+            TempData["Nome"] = juridico.Nome;
+            TempData["CNPJ"] = Convert.ToString(juridico.CNPJ);
+            TempData["IE"] = Convert.ToString(juridico.IE);
+
+
+            return RedirectToAction("Juridico");
+
+        }
+        public IActionResult Pessoa() 
+        { 
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

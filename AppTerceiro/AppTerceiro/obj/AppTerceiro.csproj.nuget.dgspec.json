@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\AppTerceiro.csproj": {}
+    "C:\\Users\\2DS\\Desktop\\ds-aplication-main\\AppTerceiro\\AppTerceiro\\AppTerceiro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\AppTerceiro.csproj": {
+    "C:\\Users\\2DS\\Desktop\\ds-aplication-main\\AppTerceiro\\AppTerceiro\\AppTerceiro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\AppTerceiro.csproj",
+        "projectUniqueName": "C:\\Users\\2DS\\Desktop\\ds-aplication-main\\AppTerceiro\\AppTerceiro\\AppTerceiro.csproj",
         "projectName": "AppTerceiro",
-        "projectPath": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\AppTerceiro.csproj",
+        "projectPath": "C:\\Users\\2DS\\Desktop\\ds-aplication-main\\AppTerceiro\\AppTerceiro\\AppTerceiro.csproj",
         "packagesPath": "C:\\Users\\2DS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2DS\\Desktop\\2ds Arthur Q e Arthur R\\2ds\\AppTerceiro\\AppTerceiro\\AppTerceiro\\obj\\",
+        "outputPath": "C:\\Users\\2DS\\Desktop\\ds-aplication-main\\AppTerceiro\\AppTerceiro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2DS\\AppData\\Roaming\\NuGet\\NuGet.Config",
